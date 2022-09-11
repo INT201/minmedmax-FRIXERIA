@@ -17,4 +17,5 @@ function minMedMax(n1, n2, n3) {
        return {min:n2,med:n1, max:n3}
     }
 }
+
 module.exports = minMedMax
